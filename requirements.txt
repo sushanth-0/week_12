@@ -1,7 +1,6 @@
 Flask
 gunicorn
 itsdangerous
-Jinga2
 MarkupSafe
 Werkzeug
 pandas
