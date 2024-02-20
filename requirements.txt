@@ -7,4 +7,3 @@ pandas
 numpy
 scikit-learn
 tensorflow-estimator
-tensorflow-macos
