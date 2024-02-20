@@ -6,7 +6,6 @@ Werkzeug
 pandas
 numpy
 scikit-learn
-tensorflow-cpu
 tensorflow-estimator
 tensorflow-io-gcs-filesystem
 tensorflow-macos
