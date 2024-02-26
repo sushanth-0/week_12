@@ -6,4 +6,5 @@ Werkzeug
 pandas
 numpy
 scikit-learn
+tensorflow-cpu
 tensorflow-estimator
