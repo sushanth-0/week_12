@@ -8,5 +8,4 @@ numpy
 scikit-learn
 tensorflow
 tensorflow-estimator
-tensorflow-io-gcs-filesystem
-tensorflow-macos
+
